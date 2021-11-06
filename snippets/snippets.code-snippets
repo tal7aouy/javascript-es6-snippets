@@ -318,5 +318,51 @@
     "prefix": "afe",
     "body": "afterEach(() => {\n\t${0}\n});",
     "description": "after each test"
+  },
+  //DOM
+  "getElementById": {
+    "prefix": "docId",
+    "body": "document.getElementById(${0});",
+    "description": "get id"
+  },
+  "querySelector": {
+    "prefix": "docS",
+    "body": "documentquery.Selector(${0});",
+    "description": "get selector"
+  },
+  "querySelectorAll": {
+    "prefix": "docSAll",
+    "body": "documentquery.SelectorAll(${0});",
+    "description": "get all selectors"
+  },
+  "getElementsByClassName": {
+    "prefix": "docC",
+    "body": "document.getElementsByClassName(${0});",
+    "description": "get selector by classname"
+  },
+  "getElementsByName": {
+    "prefix": "dicN",
+    "body": "document.getElementsByName(${0});",
+    "description": "get selector by name"
+  },
+  "getElementsByTagName": {
+    "prefix": "docT",
+    "body": "document.getElementsByTagName(${0});",
+    "description": "get selector by tagname"
+  },
+  "createElement": {
+    "prefix": "docCr",
+    "body": "document.createElement(${0});",
+    "description": "create element"
+  },
+  "createTextNode": {
+    "prefix": "docTxt",
+    "body": "document.createTextNode(${0});",
+    "description": "create textnode"
+  },
+  "addEventListener": {
+    "prefix": "addEv",
+    "body": "${0}.addEventListener(${1},()=>{});",
+    "description": "create event listener"
   }
 }

@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "javascriptsnippets" extension will be documented in this file.
+## V1.0.1
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+add DOM snippets

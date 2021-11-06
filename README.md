@@ -131,6 +131,20 @@ Below is a list of all available snippets and the triggers of each one. The ⇥ 
 |  `aft⇥` | after test suite `after(()=> {})`          |
 |  `afe⇥` | after each test `afterEach(()=> {})`       |
 
+### DOM
+
+|    Trigger | Content                                            |
+| ---------: | -------------------------------------------------- |
+|   `docId⇥` | `document.getElementById(selector);`               |
+|    `docS⇥` | `"documentquery.Selector(selector);`               |
+| `docSAll⇥` | `"documentquery.SelectorAll(selector);`            |
+|    `docC⇥` | `"documentquery.getElementsByClassName(selector);` |
+|    `docC⇥` | `"documentquery.getElementsByClassName(selector);` |
+|    `dicN⇥` | `"documentquery.getElementsByName(selector);`      |
+|    `docT⇥` | `"documentquery.getElementsByTagName(elem);`       |
+|  `docTxt⇥` | `"documentquery.createTextNode(text);`             |
+|   `addEv⇥` | `"exmaple.addEventListener(event,()=>{});`         |
+
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/tal7aouy/javascript-es6-snippets/issues).

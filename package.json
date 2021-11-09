@@ -3,7 +3,7 @@
   "displayName": "JavaScript (ES6) code snippets",
   "description": "Code snippets for JavaScript in ES6 syntax",
   "publisher": "tal7aouy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.61.0"
   },

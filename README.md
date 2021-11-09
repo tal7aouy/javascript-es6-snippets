@@ -133,17 +133,17 @@ Below is a list of all available snippets and the triggers of each one. The ⇥ 
 
 ### DOM
 
-|    Trigger | Content                                            |
-| ---------: | -------------------------------------------------- |
-|   `docId⇥` | `document.getElementById(selector);`               |
-|    `docS⇥` | `"documentquery.Selector(selector);`               |
-| `docSAll⇥` | `"documentquery.SelectorAll(selector);`            |
-|    `docC⇥` | `"documentquery.getElementsByClassName(selector);` |
-|    `docC⇥` | `"documentquery.getElementsByClassName(selector);` |
-|    `dicN⇥` | `"documentquery.getElementsByName(selector);`      |
-|    `docT⇥` | `"documentquery.getElementsByTagName(elem);`       |
-|  `docTxt⇥` | `"documentquery.createTextNode(text);`             |
-|   `addEv⇥` | `"exmaple.addEventListener(event,()=>{});`         |
+|    Trigger | Content                                       |
+| ---------: | --------------------------------------------- |
+|   `docId⇥` | `document.getElementById(selector);`          |
+|    `docS⇥` | `"document.querySelector(selector);`          |
+| `docSAll⇥` | `"document.querySelectorAll(selector);`       |
+|    `docC⇥` | `"document.getElementsByClassName(selector);` |
+|    `docC⇥` | `"document.getElementsByClassName(selector);` |
+|    `dicN⇥` | `"document.getElementsByName(selector);`      |
+|    `docT⇥` | `"document.getElementsByTagName(elem);`       |
+|  `docTxt⇥` | `"document.createTextNode(text);`             |
+|   `addEv⇥` | `"exmaple.addEventListener(event,()=>{});`    |
 
 ## Issues & Suggestions
 

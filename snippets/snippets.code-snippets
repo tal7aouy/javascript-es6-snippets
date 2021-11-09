@@ -327,12 +327,12 @@
   },
   "querySelector": {
     "prefix": "docS",
-    "body": "documentquery.Selector(${0});",
+    "body": "document.querySelector(${0});",
     "description": "get selector"
   },
   "querySelectorAll": {
     "prefix": "docSAll",
-    "body": "documentquery.SelectorAll(${0});",
+    "body": "document.querySelectorAll(${0});",
     "description": "get all selectors"
   },
   "getElementsByClassName": {

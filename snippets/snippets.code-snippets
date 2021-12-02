@@ -323,7 +323,7 @@
     "body": "${0}.addEventListener(${1},()=>{});",
     "description": "create event listener"
   },
-  //  Testing (Mocha, Jasmine, etc.)
+  //  Testing jest
   "afterAll": {
     "body": "afterAll(() => {\n\t$0\n});",
     "description": "afterAll function is called once after all specs",

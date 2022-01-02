@@ -140,7 +140,7 @@ Below is a list of all available snippets and the triggers of each one. The ⇥ 
 | `docSAll⇥` | `"document.querySelectorAll(selector);`       |
 |    `docC⇥` | `"document.getElementsByClassName(selector);` |
 |    `docC⇥` | `"document.getElementsByClassName(selector);` |
-|    `dicN⇥` | `"document.getElementsByName(selector);`      |
+|    `docN⇥` | `"document.getElementsByName(selector);`      |
 |    `docT⇥` | `"document.getElementsByTagName(elem);`       |
 |  `docTxt⇥` | `"document.createTextNode(text);`             |
 |   `addEv⇥` | `"exmaple.addEventListener(event,()=>{});`    |

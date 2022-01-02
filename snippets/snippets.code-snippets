@@ -284,12 +284,12 @@
     "description": "get id"
   },
   "querySelector": {
-    "prefix": "docS",
+    "prefix": "docqs",
     "body": "document.querySelector(${0});",
     "description": "get selector"
   },
   "querySelectorAll": {
-    "prefix": "docSAll",
+    "prefix": "docqsAll",
     "body": "document.querySelectorAll(${0});",
     "description": "get all selectors"
   },
